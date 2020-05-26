@@ -11,7 +11,9 @@
  */
 
 function getExtension(str) {
-
+  var result = str.split('.');
+  return result;
+    
 }
 
 
