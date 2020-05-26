@@ -11,10 +11,18 @@
  */
 
 function getLongestString(arr) {
+// Je devrais faire en sorte que la fonction me renvoie le nb de caractère
+// et suivant le plus élevé, je retourne l'index correspondant
 
+  // A 5 min de midi, je tente quelque chose rapide histoire de...
+  var index = arr[];
+  for (index in arr) {
+    var longer = index.length;
+    console.log(longer);
+  }
 }
 
-
+getLongestString();
 
 // Stop ! Tests, on ne touche pas :P
 check.exo8(getLongestString);

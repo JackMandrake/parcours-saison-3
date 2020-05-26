@@ -12,7 +12,11 @@
 
 
 function sum(arr) {
+  // je dois faire en sorte que ma fonction détermine si les index sont bien des nombres
+  // ensuite je dois les additionnés et retourné la valeur finale
+  // je dois faire en sorte d'ignorer les autres valeurs sans cassé ma fonction de calcul
 
+ 
 }
 
 
